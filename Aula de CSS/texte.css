@@ -13,4 +13,4 @@ div p.a{color: #6B238E;}
 
 div p.verm{color: red;}
 
-div img{border-radius: 100000000px}
+div img.bolt{max-width: 200; max-height: 200px; border-radius: 100px; }
