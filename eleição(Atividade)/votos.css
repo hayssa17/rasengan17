@@ -1,8 +1,12 @@
 
-div.imagem{
-	max-width: 100px;
- 	max-height: 100px; 
+div img{
+	
  	border-radius: 100px;
+ 	float: left;
   }
 
-       
+div.porcento{float: right;}   
+
+
+
+p.text-secondary{text-secondary}    
